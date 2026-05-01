@@ -49,12 +49,31 @@ Projenin geliştirilmesinde aşağıdaki Flutter paketleri kullanılmıştır:
 
 ## 📱 Ekran Görüntüleri
 
-*(Projenize ait ekran görüntülerini buraya ekleyebilirsiniz)*
+<table>
+  <tr>
+    <td>
+      <img width="1080" height="2400" alt="Screenshot_1777631954" src="https://github.com/user-attachments/assets/263cc75e-1bf1-4bb8-b2f8-17124d2ef432" />
+    </td>
+    <td>
+      <img width="1080" height="2400" alt="Screenshot_1777631966" src="https://github.com/user-attachments/assets/191d9f20-9d0b-4da8-bd85-d02c43ddce78" />
+    </td>
+    <td>
+      <img width="1080" height="2400" alt="Screenshot_1777631971" src="https://github.com/user-attachments/assets/1adb2cad-5f81-4e8e-81b1-d91ebb3eb680" />
+    </td>
+  </tr>
 
-| Ana Ekran | Sayılar Modülü | Boyama Modülü |
-|:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/250x500.png?text=Ana+Ekran" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Sayilar" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Boyama" width="200"/> |
-
+  <tr>
+    <td>
+      <img width="1080" height="2400" alt="Screenshot_1777631977" src="https://github.com/user-attachments/assets/1b209fdf-e26f-470c-ba6c-ef3d4c8bbe3f" />
+    </td>
+    <td>
+      <img width="1080" height="2400" alt="Screenshot_1777631982" src="https://github.com/user-attachments/assets/cc1c675d-5d13-49d5-8a40-024c23d6d738" />
+    </td>
+    <td>
+      <img width="1080" height="2400" alt="Screenshot_1777631989" src="https://github.com/user-attachments/assets/f0fc650e-e7ab-4d08-92bd-2609c2721b4f" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## ⚙️ Kurulum ve Başlangıç
