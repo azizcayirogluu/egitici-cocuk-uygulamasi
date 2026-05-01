@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # egitici-cocuk-uygulamasi
-=======
 <div align="center">
   <img src="assets/kid_bg.jpg" alt="Eğitici App Banner" width="100%" height="200" style="object-fit: cover; border-radius: 15px;"/>
   
@@ -114,20 +112,6 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 Uygulamanın ayarlar menüsünden arka plan müziği açılıp kapatılabilir. Projede kullanılan tüm müzik ve görseller `assets/` klasörü altında barındırılmaktadır. 
 - Müzikler: `assets/sounds/`
 - Görseller: `assets/Boyama/` ve diğer dizinler.
-
----
-
-## 🤝 Katkıda Bulunma
-
-Eğer projeye katkıda bulunmak isterseniz (yeni özellikler, hata düzeltmeleri vs.):
-1. Projeyi fork'layın.
-2. Kendi feature branch'inizi oluşturun (`git checkout -b feature/YeniOzellik`).
-3. Değişikliklerinizi commit'leyin (`git commit -m 'Harika bir özellik eklendi'`).
-4. Branch'inizi push'layın (`git push origin feature/YeniOzellik`).
-5. Bir Pull Request oluşturun.
-
----
-
 <div align="center">
   <p>Sevgiyle Flutter kullanılarak geliştirildi ❤️</p>
 </div>
